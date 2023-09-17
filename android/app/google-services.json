@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833695276505",
+    "project_id": "akilli-ilac-asistani",
+    "storage_bucket": "akilli-ilac-asistani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833695276505:android:bb29390c26a67d76d5cdc8",
+        "android_client_info": {
+          "package_name": "com.akilliilacuygulama.asistani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833695276505-5aml9hqkrateqoin01vq9oaattck1bkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJjMPLsPsXHtX0DYLfUr7JsDq29j60NFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833695276505-5aml9hqkrateqoin01vq9oaattck1bkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
